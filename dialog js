@@ -1,0 +1,3 @@
+ var url=':{contextPath}/dict/todictionarykind.do?actionType=create'; 
+		             var dialog = {containerId:"dialog",dialogType:"modal",title:"新增",url:url};
+		             jQuery.hiComponentDialog(dialog);
